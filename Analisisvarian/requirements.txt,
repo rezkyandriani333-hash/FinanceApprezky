@@ -1,7 +1,6 @@
 streamlit
 pandas
 plotly
-numpy
-python-dotenv
 groq
+python-dotenv
 openpyxl
